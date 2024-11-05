@@ -2,7 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
     
-        <title>Laravel</title>
+        <title>Projeto Laravel</title>
 
          </head>
     <body>
